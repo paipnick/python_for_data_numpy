@@ -1,0 +1,1 @@
+print(365, 'days in a year');
