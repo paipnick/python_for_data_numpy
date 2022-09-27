@@ -1,0 +1,1 @@
+file1 = open('workearly.txt', 'w+')
